@@ -11,7 +11,7 @@
 
 ### Objetivo do repositório 📝 🧾 📊 📈
 
-- Relizar meus estudos em análise de dados estou usando o livro *Python para análise de dados: Tratamento de dados com Pandas, NumPy e IPython* por *Wes McKinney*
+- Realizar meus estudos em análise de dados estou usando o livro *Python para análise de dados: Tratamento de dados com Pandas, NumPy e IPython* por *Wes McKinney*
 
 
 - Os notebook's começão a partir do capítulo 4, pois os primeiros capítulos são uma básica introdução a linguagem *Python*
